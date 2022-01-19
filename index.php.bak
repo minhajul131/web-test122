@@ -98,7 +98,7 @@
                 </div>
 
                 <div class="food-menu-desc">
-                    <h4>Pizza</h4>
+                    <h4>food title</h4>
                     <p class="food-prize">$2.9</p>
                     <p class="food-detail">pizza with tomato and basil</p>
                     <br>
@@ -112,7 +112,7 @@
                 </div>
 
                 <div class="food-menu-desc">
-                    <h4>Pizza</h4>
+                    <h4>food title</h4>
                     <p class="food-prize">$2.9</p>
                     <p class="food-detail">Jimmy Willy Pizza</p>
                     <br>
@@ -126,7 +126,7 @@
                 </div>
 
                 <div class="food-menu-desc">
-                    <h4>Chocolate Bowls</h4>
+                    <h4>food title</h4>
                     <p class="food-prize">$2.9</p>
                     <p class="food-detail">Edible Chocolate Bowls</p>
                     <br>
@@ -140,7 +140,7 @@
                 </div>
 
                 <div class="food-menu-desc">
-                    <h4>Coffee</h4>
+                    <h4>food title</h4>
                     <p class="food-prize">$1</p>
                     <p class="food-detail">coffee</p>
                     <br>
@@ -154,7 +154,7 @@
                 </div>
 
                 <div class="food-menu-desc">
-                    <h4>Burger</h4>
+                    <h4>food title</h4>
                     <p class="food-prize">$1.7</p>
                     <p class="food-detail">burger</p>
                     <br>
